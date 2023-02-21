@@ -1,16 +1,16 @@
 # bridgepage
 
-## Frontend 📍
+## Frontend
 
 - html
 - javascript (es6)
 
-## Backend 📍
+## Backend
 
 - Node.js
 - DynamoDB
 
-## AWS 📍
+## AWS
 
 - lambda
 - S3

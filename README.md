@@ -1,5 +1,7 @@
 # bridgepage
 
+[link](https://www.naver.com)
+
 ## Frontend 📍
 
 - html
@@ -16,6 +18,9 @@
 - ec2
 - route53
 - apigateway
+
+## Explanation
+`explanation`
 
 ## Install
 
